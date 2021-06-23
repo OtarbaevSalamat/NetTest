@@ -1,0 +1,2 @@
+# NetTest
+Test qilamiz
